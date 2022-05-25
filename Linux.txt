@@ -1,0 +1,26 @@
+The help command displays a description of the command supported syntax and options
+
+History commands executing a command from the terminal will show a complete list of the last executed commands with a lined number.
+
+Who Command: it displays who is on the system.
+
+the boot displays time of the last system boot
+
+Q--Count:: it displays all login names and the number of users logged on
+
+S--Short:: this command prints only name and time by default values. 
+
+T--Time:: this command displays the last system clock change. 
+
+t,-w,-message:: this command displays the user message status 
+
+U--Users::it displays the list of users who logged in.
+
+Version:: it displays the output version information and exits. 
+
+
+execution Burst time - Its the time required by 
+
+arrival time - 
+
+Dispatcher-it is a module 
